@@ -70,8 +70,7 @@ body {
   text-transform: capitalize;
 }
 .source-code {
-  position: relative;
-  left: 145px;
+  text-align: center;
 }
 .source-code-link {
   text-decoration: none;
